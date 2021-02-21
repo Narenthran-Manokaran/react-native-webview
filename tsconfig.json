@@ -8,7 +8,7 @@
     "lib": ["es2017"],
     "declaration": true,
     "declarationMap": true,
-    "outDir": "lib",
+    "outDir": "src",
     "allowSyntheticDefaultImports": true,
     "esModuleInterop": true,
     "forceConsistentCasingInFileNames": true,
